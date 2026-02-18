@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bethlehemplumbingco.com/sitemap.xml
